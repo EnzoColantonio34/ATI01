@@ -1,0 +1,1 @@
+unsigned char replace(unsigned char message[10]);
