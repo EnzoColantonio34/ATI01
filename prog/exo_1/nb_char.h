@@ -1,0 +1,1 @@
+int nb_char(unsigned char str[100]);
