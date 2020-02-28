@@ -191,6 +191,7 @@ int** C;
 C=&B;
 **C=42;
 
+```
 int main () {
         int B;
         B=42;
@@ -201,3 +202,4 @@ void RAZ (int* V) {
         *V=0;
 }
 }
+```
